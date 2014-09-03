@@ -1,0 +1,1 @@
+void bus_init();
